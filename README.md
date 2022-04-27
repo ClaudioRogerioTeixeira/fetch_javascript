@@ -8,6 +8,3 @@ Projeto desenvolvido utilizando o framework BootStrap, HTML, CSS e Javascript.
 * Css
 * Javascript
 * Bootstrap
-
-### Desenvolvedor: Claudio Teixeira
-
